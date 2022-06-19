@@ -1,0 +1,41 @@
+.navbar-brand-img {
+    height: 100px;
+    width: 200px;
+} 
+
+.n1{
+  background-color: #b20c28;
+  color: white;
+}
+.t1{
+  color: white;
+  font-weight: 500;
+}
+
+.box1{
+  background-color: rgb(245, 245, 245);
+  padding: 20px;
+  margin-top: 75px;
+  border-radius: 40px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.bh1{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  color:#222258;
+  margin-bottom: 10px;
+}
+.bh2{
+  text-align: center;
+  font-size: 30px;
+}
+
+.gallery{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}

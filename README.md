@@ -7,7 +7,6 @@ Open-x is an open-source resources platform. This is a one-stop destination for 
 
  - HTML
  - CSS
- - JavaScript
 
 
 ## Running on your local machine
